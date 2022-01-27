@@ -1,27 +1,26 @@
-<h2 align="center">My name is Eklavya Prasad Mahato 👋</h2>
+# Hi, I'm Eklavya 🖐 👩🏾‍💻
 
-<p align='center'>
-<a href="https://twitter.com/eklavyaprasad1"><img height="40" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/eklavya-prasad-6857a2191/"><img height="40" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/eklavyaprasad/"><img height="40" src="icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-</p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/eklavyaprasad1?label=Follow)](https://twitter.com/intent/follow?screen_name=eklavyaprasad1)
+[![Linkedin: Eklavya](https://img.shields.io/badge/-Eklavya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eklavya-prasad-6857a2191/)](https://www.linkedin.com/in/eklavya-prasad-6857a2191/)
+![GitHub followers](https://img.shields.io/github/followers/eklavyaprasad?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=eklavyaprasad&color=brightgreen">  
 
-<h2 align="center">Languages and Tools:</h2>
-<p align='center'>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<br/>
-<br>
+<img src="data/about.png">
 
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=eklavyaprasad&show_icons=true&theme=dark&show_icons=true&count_private=true&hide_border=true" />
-  <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=eklavyaprasad&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-<br>
-  
-<h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
+## 👨🏻‍💻 &nbsp;About Me
 
-</div>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+🎓 &nbsp;I'm currently studying Computer Science Engineering at Shri Ram Institute of Technology, Jabalpur.\
+🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
+✉️ &nbsp;You can shoot me an email at eklavyaprasad1@gmail.com! I'll try to respond as soon as I can.
+
+
+
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/eklavya-prasad-6857a2191/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Struggling on <a href="https://leetcode.com/eklavyaprasad3/">LeetCode</a> 😍
+- Practising on <a href="https://codeforces.com/profile/opCisco">Codeforces</a> 🙃
+- Sharing updates on <a href="https://www.linkedin.com/in/eklavya-prasad-6857a2191/">LinkedIn</a> 😇
+
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
