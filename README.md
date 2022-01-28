@@ -22,5 +22,13 @@
 - Practising on <a href="https://codeforces.com/profile/opCisco">Codeforces</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/eklavya-prasad-6857a2191/">LinkedIn</a> 😇
 
+<br>
+
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=eklavyaprasad&show_icons=true&theme=dark&show_icons=true&count_private=true&hide_border=true" />
+  <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=eklavyaprasad&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+<br>
+
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
