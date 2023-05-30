@@ -1,4 +1,4 @@
-# Hi, I'm Eklavya 🖐 👩🏾‍💻
+# Hi, I'm Eklavya 👩‍💻✨
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/eklavyaprasad1?label=Follow)](https://twitter.com/intent/follow?screen_name=eklavyaprasad1)
 [![Linkedin: Eklavya](https://img.shields.io/badge/-Eklavya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eklavya-prasad-6857a2191/)](https://www.linkedin.com/in/eklavya-prasad-6857a2191/)
@@ -18,9 +18,9 @@
 
 
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/eklavya-prasad-6857a2191/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Struggling on <a href="https://leetcode.com/eklavyaprasad3/">LeetCode</a> 😍
-- Practising on <a href="https://codeforces.com/profile/opCisco">Codeforces</a> 🙃
-- Sharing updates on <a href="https://www.linkedin.com/in/eklavya-prasad-6857a2191/">LinkedIn</a> 😇
+- Struggling on <a href="https://leetcode.com/eklavyaprasad3/">LeetCode</a>
+- Practising on <a href="https://codeforces.com/profile/opCisco">Codeforces</a>
+- Sharing updates on <a href="https://www.linkedin.com/in/eklavya-prasad-6857a2191/">LinkedIn</a>
 
 <br>
 
