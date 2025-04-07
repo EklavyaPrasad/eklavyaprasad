@@ -11,11 +11,11 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-🎓 &nbsp;I'm currently studying Computer Science Engineering at Shri Ram Institute of Technology, Jabalpur.\
-🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
-✉️ &nbsp;You can shoot me an email at eklavyaprasad1@gmail.com! I'll try to respond as soon as I can.
-
-
+👨‍💻 Currently working as a Software Development Engineer (SDE) at Jio Platforms.\
+🧠 Passionate about building scalable systems and solving real-world problems with code.\
+⚙️ Exploring Cross-Platform Development, System Design, and Algorithms in depth.\
+🚀 Always up for exciting side projects and startup ideas — love wearing multiple hats.\
+✉️ Reach out at eklavyaprasad1@gmail.com — I’m always open to connect and collaborate!
 
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/eklavya-prasad-6857a2191/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Struggling on <a href="https://leetcode.com/eklavyaprasad3/">LeetCode</a>
